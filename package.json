@@ -32,7 +32,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "ky": "^1.8.2"
+    "ky": "^1.14.0"
   },
   "devDependencies": {
     "@biomejs/biome": "2.1.3",
