@@ -18,4 +18,4 @@ jobs:
           disable-sudo: true
           egress-policy: audit
 
-      - uses: KineticCafe/actions-dco@41ccac559c7150e0e9ffea00785fd173c473e2ee #v1.3.5
+      - uses: KineticCafe/actions-dco@cd9508e5ae82413fbd74b20af21551db0ea3eb78 #v2.0.0
